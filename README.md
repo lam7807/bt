@@ -4,6 +4,7 @@ Thực hành Git
 Lệnh để cấu hình Git:
 
 `git config --global user.name "Name"`
+
 `git config --global user.email "abc@zy.com"`
 
 # Phần 2 - Khởi tạo Git repo
